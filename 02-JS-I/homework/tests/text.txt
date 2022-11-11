@@ -1,0 +1,17 @@
+Conceptos básicos
+
+ - Variables: es una variante que puede adquirir diferentes valores y esta sujeto a cambios frecuentes.
+ 
+ - Strings: Es un objeto y se utiliza para representar o manipular una secuencia de caracteres. 
+ 
+ - Funciones (argumentos, return): Es un bloque de códigos que realiza algua operación idepedientemente
+ 
+        - Argumentos : Es el que representa el valor que se pasa a un parametro del procedimiento a llamar.
+ 
+        - Return : Es una instrucción que termina la ejecución de ua función y devuelve el control de llamada.
+ 
+ - Declaraciones if : Especifica un nombre único y establece una asociación entre una variable, función o sus atributos.
+ 
+        - if : Se utiliza para evaluar una expresión condicional, si se cumple la condición es verdadera, se ejecutará un bloque de código y si es falsa, posiblemente se ejecutará otro bloque de códigos.
+
+ - Valores booleanos (true, false): Son los que representa un valor y solo exiten dos - verdadero ó falso.
