@@ -1,0 +1,9 @@
+Conceptos básicos
+
+ - for:
+
+Operadores lógicos
+
+ - &&, 
+ - ||, 
+ - !
