@@ -1,0 +1,5 @@
+Conceptos básicos:
+
+Arrays: Un arreglo (matriz) es una colección ordenada de datos.
+        Los arreglos (matrices) se emplean para almacenar multiples valores en una sola variable, 
+        frente a las variables que sólo pueden almacenar un valor (por cada variable)
