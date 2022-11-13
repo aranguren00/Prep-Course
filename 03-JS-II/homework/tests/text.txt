@@ -1,9 +1,9 @@
 Conceptos básicos
 
- - for:
+ - for: Un ciclo For es una estructura que se utiliza para ejecutar un bloque de código un número determinado de veces.
 
-Operadores lógicos
+Operadores lógicos: se usan para comparar dos valores y devolver un resultado verdadero, falso o nulo.
 
- - &&, 
- - ||, 
- - !
+ - &&: Verdadero sólo si los dos elementos son verdaderos.
+ - ||: Verdadero si cualquiera de los elementos es verdadero.
+ - !: Cambia el valor de Falso a Verdadero y viceversa.
