@@ -1,5 +1,13 @@
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://ep01.epimg.net/elcomidista/imagenes/2018/10/28/articulo/1540766877_011218_1540771696_media_normal.jpg);
+    
+}   
+div{
+    margin: 0 auto;
+    text-align: center;
+}
 h1{
-    color: rgb(243, 9, 9);
+    color: rgb(17, 243, 9);
 }
 img{
     width: 400px;
@@ -14,4 +22,7 @@ img{
 #spanId{
     font-size: 18px;
     margin: 50px;
+}
+.divClass{
+    color: aliceblue;
 }

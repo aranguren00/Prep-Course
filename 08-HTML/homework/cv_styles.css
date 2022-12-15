@@ -1,0 +1,36 @@
+body{
+    display:flex;
+}
+.primero{
+    margin: 0;
+    background-color: black;
+    padding: 13%;
+}
+.segundo{
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    background-color: rgb(223, 224, 223); 
+}
+ul{
+    list-style: none;
+}
+.nombre{
+    top: 0;
+    color: aliceblue;
+}
+.ultimo{
+    display: flex;
+    margin-left: 31%;
+    text-align:center;
+}
+hr {
+    height: 1px;
+    width: 35%;
+    background-color: rgb(170, 165, 165);
+  }
+.linea{
+    height: 1px;
+    width: 50%;
+    background-color: rgb(170, 165, 165);
+}
